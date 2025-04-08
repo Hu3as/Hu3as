@@ -10,7 +10,7 @@ If you want to collaborate with me, feel free to reach me out.
 
 ### 🎯 social media: 🎯
 
-💼 [LinkedIN](https://www.linkedin.com/in/filip-huczek-6b3a7813b/)<br>
+💼 [LinkedIN](https://www.linkedin.com/in/filiphuczek/)<br>
 📫 <Huczek.FH@gmail.com>  <br>
 🧊 [3D Models](https://makerworld.com/en/@Hucz_As)
 

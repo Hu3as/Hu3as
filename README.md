@@ -1,21 +1,20 @@
 
 # <div align="center"> Hi there! 👋 </div>
 
-I am a graduate student in Automation & Robotics, with a major in IT and Embedded Systems Engineering. I have experience working with embedded systems, RTOS, microcontroller programming, and languages such as C, C++, Rust, and Python.
+I'm a graduate student in Automation & Robotics, with a major in IT and Embedded Systems Engineering. I have experience working with embedded systems, RTOS, microcontroller programming, and languages such as C, C++, Rust, and Python.
 I also specialize in PLC controllers and robotics.
 
 My interests include also low-level interface programming, electronics, PCB design, and CAD/CAE modeling.
 
-If you want to collaborate with me, feel free to reach out.
+If you want to collaborate with me, feel free to reach me out.
 
-### social media: 🎯
+### 🎯 social media: 🎯
 
 💼 [LinkedIN](https://www.linkedin.com/in/filip-huczek-6b3a7813b/)<br>
-🧊 [3D Models](https://makerworld.com/en/@Hucz_As) <br>
-📫 <Huczek.FH@gmail.com>
+📫 <Huczek.FH@gmail.com>  <br>
+🧊 [3D Models](https://makerworld.com/en/@Hucz_As)
 
-
-### <div align="center">Technologies I work with: ⚙️</div>
+### <div align="center">⚙️ Technologies I work with: ⚙️</div>
 
 <div align="center">
   
